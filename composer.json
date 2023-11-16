@@ -1,0 +1,11 @@
+{
+  "name": "cvy/util-wp-env",
+  "autoload": {
+    "psr-4": {
+      "Cvy\\WP\\Env\\": "src/"
+    }
+  },
+  "require": {
+    "cvy/util-design-patterns": "^1.0"
+  }
+}
